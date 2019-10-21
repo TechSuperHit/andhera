@@ -28,7 +28,7 @@ Any Problems Massage Me @YourX
 Our Best Friend @bksinghback @bksinghyt
 For more commands click /help...
 
-**Keep in mind that any changes you DO do to the source have to be on github, as per the license.**
+**Please Join Our Channel And Group.**
 
 """
 
