@@ -25,7 +25,7 @@ im a group manager bot maintained by  [this person](tg://user?id={}).
 My future updates will be put into This Channel - @bksinghtech & My Support Group @OfficialMiUi.
 Please Follow Me On Twitter Facebook Instagram @bksinghtech
 Any Problems Massage Me @YourX
-Our Best Friend @bksinghback @bksinghyt
+Our Best Friend @bksinghback @AndheraLive
 For more commands click /help...
 
 **Please Join Our Channel And Group.**
