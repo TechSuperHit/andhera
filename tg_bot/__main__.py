@@ -22,7 +22,7 @@ hoi {}, my name is {}! if you have any questions about how to use me please give
 
 im a group manager bot maintained by  [this person](tg://user?id={}).
 
-My future updates will be put into This Channel - @bksinghtech & My Support Group @OfficialMiUi.
+My future updates will be put into This Channel - @bksinghtech @TechSuperHit & My Support Group @OfficialMiUi.
 Please Follow Me On Twitter Facebook Instagram @bksinghtech
 Any Problems Massage Me @YourX
 Our Best Friend @bksinghback @AndheraLive
